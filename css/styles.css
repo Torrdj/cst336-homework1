@@ -64,14 +64,13 @@ a
 
 ul
 {
-	font-style: italic;
-	font-weight: bold;
-}
-
-li
-{
 	font-style: normal;
 	font-weight: normal;
+}
+
+em
+{
+	text-align: center;
 }
 
 table
@@ -126,4 +125,10 @@ td
 {
 	border: 1px solid black;
 	text-align: justify;
+}
+
+#relou
+{
+	font-style: italic;
+	font-weight: bold;
 }

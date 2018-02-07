@@ -16,7 +16,7 @@
 				<a href="languages.html">Languages</a>
 				<a href="future.html">Beyond</a>
 			</nav>
-			<hr width="81%"/>
+			<hr/>
         </header>
 		
 		<main>
@@ -24,8 +24,9 @@
 				<table id="overview">
 					<tr>
 						<td><img src="img/cs_brain.jpg" alt="img"/></td>
-						<td>
-							<ul>Computer Science
+						<td id="relou">
+							Computer Science
+							<ul>
 								<li>Computers in a few dates</li>
 								<li>Programming languages</li>
 								<li>To the future and beyond</li>
@@ -33,12 +34,12 @@
 						</td>
 					</tr>
 					<tr>
-						<td colspan="2"><center>
+						<td colspan="2">
 							<em>
 								"Computer Science is no more about computers than astronomy is about telescopes."
 							</em>
 							<br/> - <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>
-						</center></td>
+						</td>
 					</tr>
 				</table>
 			</div>
