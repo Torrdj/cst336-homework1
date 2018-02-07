@@ -25,6 +25,11 @@ main, #content, #last
 	text-align: center;
 }
 
+hr
+{
+	width: 81%;
+}
+
 footer
 {
 	position: fixed;
@@ -57,6 +62,18 @@ a
 	color: #0042ff;
 }
 
+ul
+{
+	font-style: italic;
+	font-weight: bold;
+}
+
+li
+{
+	font-style: normal;
+	font-weight: normal;
+}
+
 table
 {
     margin: 0px auto;
@@ -67,6 +84,11 @@ table
 td
 {
     padding-right: 12px;
+}
+
+#hr-header
+{
+	width:50%;
 }
 
 #content

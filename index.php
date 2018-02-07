@@ -10,7 +10,7 @@
         <header>
             <h1>Computer Science</h1>
 			<nav>
-				<hr width="50%"/>
+				<hr id="hr-header"/>
 				<a href="index.php" id="current_nav">Home</a>
 				<a href="computers.html">Computers</a>
 				<a href="languages.html">Languages</a>
@@ -23,9 +23,9 @@
 			<div>
 				<table id="overview">
 					<tr>
-						<td><img src="img/cs_brain.jpg"/></td>
+						<td><img src="img/cs_brain.jpg" alt="img"/></td>
 						<td>
-							<ul><strong><i>Computer Science</i></strong>
+							<ul>Computer Science
 								<li>Computers in a few dates</li>
 								<li>Programming languages</li>
 								<li>To the future and beyond</li>
@@ -45,9 +45,9 @@
         </main>
         
 		<footer>
-			<hr width="81%"/>
+			<hr/>
             CST 336 - Internet Programming. 2018&copy; TORDJMAN
-			</br></br>
+			<br/><br/>
         </footer>
     </body>
 </html>
