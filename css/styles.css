@@ -116,19 +116,19 @@ td
 	width: 42em;
 }
 
-#common-td
-{
-	border: 1px solid black;
-}
-
-#info
-{
-	border: 1px solid black;
-	text-align: justify;
-}
-
 #relou
 {
 	font-style: italic;
 	font-weight: bold;
+}
+
+.common-td
+{
+	border: 1px solid black;
+}
+
+.info
+{
+	border: 1px solid black;
+	text-align: justify;
 }
